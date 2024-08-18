@@ -50,9 +50,9 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB    &kp EXCL      &kp AT        &kp HASH      &kp DLLR      &kp PRCNT       &kp CARET       &kp AMPS   &kp ASTRK  &kp LPAR          &kp RPAR           &kp BACKSLASH
-&kp LCTRL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5    &kp MINUS       &kp EQUAL  &kp GRAVE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PIPE
-&kp LSHFT  &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0    &kp UNDERSCORE  &kp PLUS   &kp TILDE  &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp ESC
+&kp TAB    &kp EXCL      &kp AT        &kp HASH      &kp DLLR      &kp PRCNT       &kp CARET       &kp AMPS   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp ASTERISK  &kp BACKSLASH
+&kp LCTRL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5    &kp MINUS       &kp EQUAL  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp GRAVE     &kp PIPE
+&kp LSHFT  &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0    &kp UNDERSCORE  &kp PLUS   &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp TILDE     &kp ESC
                                        &kp LGUI      &trans        &kp RET         &kp SPACE       &trans     &kp RALT
             >;
         };
